@@ -1,4 +1,12 @@
-years,score,perfect score,school,city,prediction
-18,excellent,yes,high school,Nis,?
-20,very good,no,tehnical,Leskovac,?
-19,good,no,other,Vranje,?
+years,score,perfect_score,school,city,prediction
+19,excellent,not,high school,Kragujevac,yes
+18,good,not,medical,Nis,not
+21,very good,not,high school,Vranje,not
+21,excellent,yes,,Novi Sad,yes
+22,good,not,technical,Nis,not
+19,very good,not,high school,Kragujevac,yes
+18,excellent,yes,medical,Belgrade,not
+20,good,not,high school,Nis,not
+21,very good,not,technical,Nis,not
+22,excellent,not,other,Leskovac,not
+19,good,not,high school,Novi Sad,not

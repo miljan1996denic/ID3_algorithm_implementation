@@ -1,15 +1,66 @@
-years,score,perfect score,school,city,enter elfak
+years,score,perfect_score,school,city,enter_elfak
 18,excellent,yes,high school,Nis,yes
 19,excellent,yes,high school,Nis,yes
-19,excellent,no,medical,Leskovac,no
-18,very good,no,high school,Vranje,yes
-19,very good,no,tehnical,Nis,no
-18,very good,no,other,Leskovac,yes
+19,excellent,not,medical,Leskovac,not
+18,very good,not,high school,Vranje,yes
+19,very good,not,technical,Nis,yes
+18,very good,not,other,Leskovac,yes
 19,excellent,yes,high school,Nis,yes
-19,excellent,no,tehnical,Nis,no
-19,good,no,high school,Pirot,yes
-20,very good,no,tehnical,Nis,yes
-19,good,no,other,Nis,no
-19,very good,no,high school,Nis,yes
-18,excellent,yes,high school,Vranje,no
-19,very good,no,tehnical,Leskovac,yes
+19,excellent,not,technical,Nis,yes
+19,good,not,high school,Nis,not
+20,very good,not,technical,Nis,yes
+19,good,not,other,Nis,not
+19,very good,not,high school,Nis,yes
+18,excellent,yes,high school,Vranje,yes
+19,very good,not,technical,Leskovac,yes
+21,good,not,,Belgrade,not
+22,excellent,yes,medical,Novi Sad,not
+20,good,not,technical,Nis,yes
+20,very good,not,high school,Kragujevac,yes
+21,excellent,not,technical,Nis,yes
+18,good,not,other,Subotica,not
+22,very good,not,high school,Novi Sad,not
+19,excellent,yes,high school,Nis,yes
+20,good,not,,Belgrade,not
+19,very good,not,technical,Kragujevac,yes
+18,excellent,yes,high school,Novi Sad,yes
+21,good,not,other,Nis,not
+19,very good,not,high school,Subotica,yes
+21,excellent,not,technical,Kragujevac,yes
+20,very good,not,high school,Nis,yes
+19,good,not,high school,Vranje,not
+22,excellent,not,technical,Belgrade,not
+21,very good,not,medical,Nis,not
+20,good,not,high school,Leskovac,not
+21,very good,not,technical,Novi Sad,yes
+20,excellent,not,high school,Belgrade,yes
+22,good,not,technical,Kragujevac,not
+19,very good,not,,Nis,yes
+18,excellent,not,high school,Subotica,yes
+21,very good,not,high school,Nis,yes
+22,good,not,technical,Vranje,not
+19,excellent,not,medical,Novi Sad,not
+20,very good,not,high school,Kragujevac,yes
+21,good,not,technical,Nis,not
+19,excellent,yes,high school,Belgrade,yes
+18,very good,not,medical,Novi Sad,not
+22,excellent,not,high school,Nis,not
+19,good,not,technical,Nis,not
+20,very good,not,high school,Novi Sad,yes
+21,excellent,not,medical,Kragujevac,not
+19,good,not,high school,Nis,not
+18,very good,not,technical,Vranje,yes
+20,excellent,yes,high school,Belgrade,yes
+21,good,not,medical,Novi Sad,not
+22,very good,not,technical,Nis,not
+19,excellent,not,high school,Kragujevac,yes
+18,good,not,medical,Nis,not
+20,very good,not,high school,Vranje,not
+21,excellent,yes,,Novi Sad,yes
+22,good,not,technical,Nis,not
+19,very good,not,high school,Kragujevac,yes
+18,excellent,yes,medical,Belgrade,not
+20,good,not,high school,Nis,not
+21,very good,not,technical,Nis,not
+22,excellent,not,other,Leskovac,not
+19,good,not,high school,Novi Sad,not
