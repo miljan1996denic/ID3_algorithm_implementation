@@ -27,14 +27,12 @@ preprocessed_data.head(20)
 
 # Analyze data
 preprocessed_data.hist('years', bins=range(18, 23, 1))
-plt.show()
 
 cross_tab = pd.crosstab(data['score'], data['school'])
 sns.heatmap(cross_tab, annot=True, cmap='YlGnBu', fmt='d')
 plt.xlabel('score')
 plt.ylabel('school')
 plt.title('Heatmap of score vs school')
-plt.show()
 
 # ID3
 tree_diagraph = Digraph("ID3", filename="id3.gv")
@@ -63,9 +61,9 @@ encoder = OneHotEncoder(handle_unknown='error')
 X_train_encoded = encoder.fit_transform(X_train,)
 X_test_encoded = encoder.transform(X_test)
 
-decission_tree = DecisionTreeClassifier()
-decission_tree.fit(X_train_encoded, y_train)
-predicted_dataset = decission_tree.predict(X_test_encoded)
+decision_tree = DecisionTreeClassifier()
+decision_tree.fit(X_train_encoded, y_train)
+predicted_dataset = decision_tree.predict(X_test_encoded)
 print('CART: ', accuracy_score(predicted_dataset, y_test))
 
 # RANDOM FOREST
